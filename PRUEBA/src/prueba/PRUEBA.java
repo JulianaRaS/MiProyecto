@@ -27,7 +27,8 @@ public class PRUEBA extends Application {
             
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("CRANDO PROYECTO");
+                System.out.println("CRANDO ");
+                System.out.println("CRANDO REPOSITORIO");
             }
         });
         
